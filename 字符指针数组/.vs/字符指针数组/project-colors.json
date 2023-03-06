@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "657b1454-04d9-4ead-9e91-25b666b6fd36": {
+      "ProjectGuid": "657b1454-04d9-4ead-9e91-25b666b6fd36",
+      "DisplayName": "字符指针数组",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "217dd9b9-7a3a-4f79-aae4-fc671a5e45c1": {
+      "ProjectGuid": "217dd9b9-7a3a-4f79-aae4-fc671a5e45c1",
+      "DisplayName": "快速排序",
+      "ColorIndex": 1
+    },
+    "ab874e79-b086-42e0-92e2-3fe09425bb3d": {
+      "ProjectGuid": "ab874e79-b086-42e0-92e2-3fe09425bb3d",
+      "DisplayName": "求一个字符串在另一个字符串的个数",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

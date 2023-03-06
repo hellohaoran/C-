@@ -1,0 +1,6 @@
+﻿  字符串长度两头堵.c
+E:\C++algorithm\字符串长度两头堵\字符串长度两头堵.c(26,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+E:\C++algorithm\字符串长度两头堵\字符串长度两头堵.c(26,12): message : 请考虑在格式字符串中使用“%lld”
+E:\C++algorithm\字符串长度两头堵\字符串长度两头堵.c(26,12): message : 请考虑在格式字符串中使用“%Id”
+E:\C++algorithm\字符串长度两头堵\字符串长度两头堵.c(26,12): message : 请考虑在格式字符串中使用“%I64d”
+  字符串长度两头堵.vcxproj -> E:\C++algorithm\字符串长度两头堵\x64\Debug\字符串长度两头堵.exe

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69ad9dae-297b-4c9d-97e7-74857579193a": {
+      "ProjectGuid": "69ad9dae-297b-4c9d-97e7-74857579193a",
+      "DisplayName": "指针2",
+      "ColorIndex": 0
+    },
+    "ca8a8a2a-3693-48ba-8290-e21fb15402e9": {
+      "ProjectGuid": "ca8a8a2a-3693-48ba-8290-e21fb15402e9",
+      "DisplayName": "指针",
+      "ColorIndex": 1
+    },
+    "e75a4b24-17c2-483f-934d-8a03b91530e6": {
+      "ProjectGuid": "e75a4b24-17c2-483f-934d-8a03b91530e6",
+      "DisplayName": "多级指针",
+      "ColorIndex": 2
+    },
+    "0091d265-a735-4a15-a41f-2f4fa9b2b0d7": {
+      "ProjectGuid": "0091d265-a735-4a15-a41f-2f4fa9b2b0d7",
+      "DisplayName": "指针数组",
+      "ColorIndex": 3
+    },
+    "5b5472d8-cc87-465b-93b3-08e1845ebfa3": {
+      "ProjectGuid": "5b5472d8-cc87-465b-93b3-08e1845ebfa3",
+      "DisplayName": "数组作为函数的形参",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

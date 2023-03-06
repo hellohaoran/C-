@@ -1,0 +1,11 @@
+﻿  字符串切割.c
+E:\C++algorithm\字符串切割\字符串切割.c(15,26): warning C4047: “函数”:“const char *”与“char *[1]”的间接级别不同
+E:\C++algorithm\字符串切割\字符串切割.c(15,24): warning C4024: “strtok”: 形参和实参 2 的类型不同
+E:\C++algorithm\字符串切割\字符串切割.c(19,28): warning C4047: “函数”:“const char *”与“char *[1]”的间接级别不同
+E:\C++algorithm\字符串切割\字符串切割.c(19,26): warning C4024: “strtok”: 形参和实参 2 的类型不同
+E:\C++algorithm\字符串切割\字符串切割.c(24,31): warning C4047: “函数”:“const char *”与“char *[1024]”的间接级别不同
+E:\C++algorithm\字符串切割\字符串切割.c(24,29): warning C4024: “strlen”: 形参和实参 1 的类型不同
+E:\C++algorithm\字符串切割\字符串切割.c(13,1): warning C4047: “初始化”:“char *”与“int”的间接级别不同
+E:\C++algorithm\字符串切割\字符串切割.c(15,12): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++algorithm\字符串切割\字符串切割.c(19,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  字符串切割.vcxproj -> E:\C++algorithm\字符串切割\x64\Debug\字符串切割.exe

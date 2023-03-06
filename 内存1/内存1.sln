@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "内存1", "内存1.vcxproj", "{38A43E44-6862-4684-8BC1-76D0421B140D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "b变量的作用域", "..\consoul\consoul.vcxproj", "{85B179BC-1D60-4FDD-893E-57B6E9D19A36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "变量重名问题", "..\变量重名问题\变量重名问题.vcxproj", "{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数的作用域", "..\函数的作用域\函数的作用域.vcxproj", "{E06356CC-663E-480A-A10C-6BD81DD5E7B4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mem函数", "..\mem函数\mem函数.vcxproj", "{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A43E44-6862-4684-8BC1-76D0421B140D}.Debug|x64.ActiveCfg = Debug|x64
+		{38A43E44-6862-4684-8BC1-76D0421B140D}.Debug|x86.ActiveCfg = Debug|Win32
+		{38A43E44-6862-4684-8BC1-76D0421B140D}.Debug|x86.Build.0 = Debug|Win32
+		{38A43E44-6862-4684-8BC1-76D0421B140D}.Release|x64.ActiveCfg = Release|x64
+		{38A43E44-6862-4684-8BC1-76D0421B140D}.Release|x64.Build.0 = Release|x64
+		{38A43E44-6862-4684-8BC1-76D0421B140D}.Release|x86.ActiveCfg = Release|Win32
+		{38A43E44-6862-4684-8BC1-76D0421B140D}.Release|x86.Build.0 = Release|Win32
+		{85B179BC-1D60-4FDD-893E-57B6E9D19A36}.Debug|x64.ActiveCfg = Debug|x64
+		{85B179BC-1D60-4FDD-893E-57B6E9D19A36}.Debug|x86.ActiveCfg = Debug|Win32
+		{85B179BC-1D60-4FDD-893E-57B6E9D19A36}.Debug|x86.Build.0 = Debug|Win32
+		{85B179BC-1D60-4FDD-893E-57B6E9D19A36}.Release|x64.ActiveCfg = Release|x64
+		{85B179BC-1D60-4FDD-893E-57B6E9D19A36}.Release|x64.Build.0 = Release|x64
+		{85B179BC-1D60-4FDD-893E-57B6E9D19A36}.Release|x86.ActiveCfg = Release|Win32
+		{85B179BC-1D60-4FDD-893E-57B6E9D19A36}.Release|x86.Build.0 = Release|Win32
+		{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}.Debug|x64.ActiveCfg = Debug|x64
+		{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}.Debug|x86.Build.0 = Debug|Win32
+		{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}.Release|x64.ActiveCfg = Release|x64
+		{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}.Release|x64.Build.0 = Release|x64
+		{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}.Release|x86.ActiveCfg = Release|Win32
+		{360F229F-A06B-4C9B-81B9-9983B0A0A3F6}.Release|x86.Build.0 = Release|Win32
+		{E06356CC-663E-480A-A10C-6BD81DD5E7B4}.Debug|x64.ActiveCfg = Debug|x64
+		{E06356CC-663E-480A-A10C-6BD81DD5E7B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E06356CC-663E-480A-A10C-6BD81DD5E7B4}.Debug|x86.Build.0 = Debug|Win32
+		{E06356CC-663E-480A-A10C-6BD81DD5E7B4}.Release|x64.ActiveCfg = Release|x64
+		{E06356CC-663E-480A-A10C-6BD81DD5E7B4}.Release|x64.Build.0 = Release|x64
+		{E06356CC-663E-480A-A10C-6BD81DD5E7B4}.Release|x86.ActiveCfg = Release|Win32
+		{E06356CC-663E-480A-A10C-6BD81DD5E7B4}.Release|x86.Build.0 = Release|Win32
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Debug|x64.ActiveCfg = Debug|x64
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Debug|x64.Build.0 = Debug|x64
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Debug|x86.Build.0 = Debug|Win32
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Release|x64.ActiveCfg = Release|x64
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Release|x64.Build.0 = Release|x64
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Release|x86.ActiveCfg = Release|Win32
+		{4E1BBF98-84C3-4CBF-B291-988D0FC4F53A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283B8C3E-039B-4F6B-957B-DB3A2A7758DB}
+	EndGlobalSection
+EndGlobal

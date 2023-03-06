@@ -1,0 +1,8 @@
+﻿  拷贝文件.c
+E:\C++algorithm\拷贝文件\拷贝文件.c(32,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\拷贝文件\拷贝文件.c(32,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\拷贝文件\拷贝文件.c(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\拷贝文件\拷贝文件.c(39,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\拷贝文件\拷贝文件.c(29,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++algorithm\拷贝文件\拷贝文件.c(30,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  拷贝文件.vcxproj -> E:\C++algorithm\文件\x64\Debug\拷贝文件.exe

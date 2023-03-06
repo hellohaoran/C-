@@ -1,0 +1,5 @@
+﻿  指针.c
+E:\C++algorithm\指针\指针.c(14,9): warning C4101: “p1”: 未引用的局部变量
+E:\C++algorithm\指针\指针.c(15,13): warning C4101: “p2”: 未引用的局部变量
+E:\C++algorithm\指针\指针.c(80): warning C4716: “main05”: 必须返回一个值
+  指针.vcxproj -> E:\C++algorithm\指针\Debug\指针.exe

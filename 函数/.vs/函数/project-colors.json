@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97e49d2c-97e8-4b07-a199-2bdb663c0fae": {
+      "ProjectGuid": "97e49d2c-97e8-4b07-a199-2bdb663c0fae",
+      "DisplayName": "函数",
+      "ColorIndex": 0
+    },
+    "9baf944f-8e04-4cd9-935f-950317ddc081": {
+      "ProjectGuid": "9baf944f-8e04-4cd9-935f-950317ddc081",
+      "DisplayName": "指针",
+      "ColorIndex": 1
+    },
+    "423fe74b-74ea-4cbd-8e53-cebaef4049e5": {
+      "ProjectGuid": "423fe74b-74ea-4cbd-8e53-cebaef4049e5",
+      "DisplayName": "函数作业",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

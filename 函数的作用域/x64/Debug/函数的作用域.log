@@ -1,0 +1,3 @@
+﻿  函数的作用域.c
+E:\C++algorithm\函数的作用域\函数的作用域.c(33,9): warning C4022: “memset”: 指针与实参 1 不匹配
+  函数的作用域.vcxproj -> E:\C++algorithm\内存1\x64\Debug\函数的作用域.exe

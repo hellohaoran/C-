@@ -1,0 +1,4 @@
+﻿  字符指针数组.c
+E:\C++algorithm\字符指针数组\字符指针数组.c(34,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++algorithm\字符指针数组\字符指针数组.c(38,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  字符指针数组.vcxproj -> E:\C++algorithm\字符指针数组\x64\Debug\字符指针数组.exe

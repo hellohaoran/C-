@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "360f229f-a06b-4c9b-81b9-9983b0a0a3f6": {
+      "ProjectGuid": "360f229f-a06b-4c9b-81b9-9983b0a0a3f6",
+      "DisplayName": "变量重名问题",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

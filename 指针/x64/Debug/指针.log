@@ -1,0 +1,7 @@
+﻿  指针.c
+E:\C++algorithm\指针\指针.c(29,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\指针\指针.c(29,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\指针\指针.c(16,8): warning C4101: “p3”: 未引用的局部变量
+E:\C++algorithm\指针\指针.c(14,9): warning C4101: “p1”: 未引用的局部变量
+E:\C++algorithm\指针\指针.c(15,13): warning C4101: “p2”: 未引用的局部变量
+  指针.vcxproj -> E:\C++algorithm\指针\x64\Debug\指针.exe

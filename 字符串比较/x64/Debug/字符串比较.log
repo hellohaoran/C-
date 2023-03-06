@@ -1,0 +1,7 @@
+﻿  字符串比较.c
+E:\C++algorithm\字符串比较\字符串比较.c(45,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++algorithm\字符串比较\字符串比较.c(78,9): warning C4047: “=”:“int”与“int *”的间接级别不同
+E:\C++algorithm\字符串比较\字符串比较.c(81): warning C4716: “main02”: 必须返回一个值
+E:\C++algorithm\字符串比较\字符串比较.c(78): warning C4700: 使用了未初始化的局部变量“p”
+E:\C++algorithm\字符串比较\字符串比较.c(70): warning C4716: “main01”: 必须返回一个值
+  字符串比较.vcxproj -> E:\C++algorithm\字符串比较\x64\Debug\字符串比较.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5b206cc-2f62-4e72-92a6-00e64305b507": {
+      "ProjectGuid": "f5b206cc-2f62-4e72-92a6-00e64305b507",
+      "DisplayName": "实参为一级指针的地址",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

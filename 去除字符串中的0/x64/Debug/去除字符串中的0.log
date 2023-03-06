@@ -1,0 +1,4 @@
+﻿  去除字符串中的0.c
+E:\C++algorithm\去除字符串中的0\去除字符串中的0.c(10,12): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++algorithm\去除字符串中的0\去除字符串中的0.c(14,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  去除字符串中的0.vcxproj -> E:\C++algorithm\去除字符串中的0\x64\Debug\去除字符串中的0.exe

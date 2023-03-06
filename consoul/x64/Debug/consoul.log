@@ -1,0 +1,5 @@
+﻿E:\vs2022shiji\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(consoul.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  consoul.c
+E:\C++algorithm\consoul\consoul.c(12,8): warning C4013: “memset”未定义；假设外部返回 int
+E:\C++algorithm\consoul\consoul.c(14,8): warning C4013: “strcpy”未定义；假设外部返回 int
+  consoul.vcxproj -> E:\C++algorithm\内存1\x64\Debug\b变量的作用域.exe

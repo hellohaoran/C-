@@ -1,0 +1,3 @@
+﻿  模板.c
+E:\C++algorithm\三目运算符\模板.c(26): warning C4716: “mainl”: 必须返回一个值
+  三目运算符.vcxproj -> E:\C++algorithm\三目运算符\x64\Debug\三目运算符.exe

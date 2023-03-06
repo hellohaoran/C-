@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5d80d0e-fd55-4115-ba67-da556c886af1": {
+      "ProjectGuid": "e5d80d0e-fd55-4115-ba67-da556c886af1",
+      "DisplayName": "字符串反转",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

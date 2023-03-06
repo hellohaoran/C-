@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35193b24-be01-44c1-bc5a-0571d71efac7": {
+      "ProjectGuid": "35193b24-be01-44c1-bc5a-0571d71efac7",
+      "DisplayName": "分文件",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

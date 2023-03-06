@@ -1,0 +1,3 @@
+﻿  字符型输出.c
+E:\C++algorithm\字符型输出\字符型输出\字符型输出.c(13,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符型输出.vcxproj -> E:\C++algorithm\字符型输出\x64\Debug\字符型输出.exe

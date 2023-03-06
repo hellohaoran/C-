@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20b2f489-730d-4b11-9387-bd11fa461abe": {
+      "ProjectGuid": "20b2f489-730d-4b11-9387-bd11fa461abe",
+      "DisplayName": "malloc的使用",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

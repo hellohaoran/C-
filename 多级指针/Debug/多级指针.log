@@ -1,0 +1,4 @@
+﻿  多级指针.c
+E:\C++algorithm\多级指针\多级指针.c(42,1): warning C4047: “初始化”:“int *”与“int (*)[10]”的间接级别不同
+E:\C++algorithm\多级指针\多级指针.c(26): warning C4716: “main01”: 必须返回一个值
+  多级指针.vcxproj -> E:\C++algorithm\指针\Debug\多级指针.exe

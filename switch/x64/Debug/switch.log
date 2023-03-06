@@ -1,0 +1,19 @@
+﻿  main.c
+E:\C++algorithm\switch\main.c(94,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\switch\main.c(94,12): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\switch\main.c(95,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\switch\main.c(95,12): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\switch\main.c(96,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\switch\main.c(96,12): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\switch\main.c(139,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\switch\main.c(139,12): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\switch\main.c(140,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C++algorithm\switch\main.c(140,12): message : 请考虑在格式字符串中使用“%zd”
+E:\C++algorithm\switch\main.c(39): warning C4716: “main02”: 必须返回一个值
+E:\C++algorithm\switch\main.c(46): warning C4716: “main03”: 必须返回一个值
+E:\C++algorithm\switch\main.c(76): warning C4716: “main06”: 必须返回一个值
+E:\C++algorithm\switch\main.c(97): warning C4716: “main08”: 必须返回一个值
+E:\C++algorithm\switch\main.c(109): warning C4716: “main010”: 必须返回一个值
+E:\C++algorithm\switch\main.c(122): warning C4716: “main09”: 必须返回一个值
+E:\C++algorithm\switch\main.c(30): warning C4716: “main1”: 必须返回一个值
+  switch.vcxproj -> E:\C++algorithm\switch\x64\Debug\switch.exe

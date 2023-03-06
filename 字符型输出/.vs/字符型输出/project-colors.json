@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b70de154-5917-42e2-a8cb-d83916402832": {
+      "ProjectGuid": "b70de154-5917-42e2-a8cb-d83916402832",
+      "DisplayName": "字符型输出",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

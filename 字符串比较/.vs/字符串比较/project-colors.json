@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "feb51977-bb3f-4b1c-bdd4-77d4371a14ab": {
+      "ProjectGuid": "feb51977-bb3f-4b1c-bdd4-77d4371a14ab",
+      "DisplayName": "字符串比较",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

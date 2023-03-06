@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b6c32f5-f24f-481e-baba-ba6bfa5becba": {
+      "ProjectGuid": "2b6c32f5-f24f-481e-baba-ba6bfa5becba",
+      "DisplayName": "去除字符串中的0",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

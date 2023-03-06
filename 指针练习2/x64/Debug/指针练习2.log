@@ -1,0 +1,3 @@
+﻿  指针练习2.c
+E:\C++algorithm\指针练习2\指针练习2.c(195): warning C4789: 缓冲区“b”(大小为 1 字节)将溢出；1 字节将在偏移 6 时开始写入
+  指针练习2.vcxproj -> E:\C++algorithm\指针练习2\x64\Debug\指针练习2.exe

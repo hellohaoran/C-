@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e72920dd-e2a2-4488-8fa9-590db2fa6638": {
+      "ProjectGuid": "e72920dd-e2a2-4488-8fa9-590db2fa6638",
+      "DisplayName": "字符串长度两头堵",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

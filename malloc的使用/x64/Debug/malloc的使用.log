@@ -1,0 +1,3 @@
+﻿  malloc的使用.c
+E:\C++algorithm\malloc的使用\malloc的使用.c(102,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  malloc的使用.vcxproj -> E:\C++algorithm\malloc的使用\x64\Debug\malloc的使用.exe

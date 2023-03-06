@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.c
+E:\C++algorithm\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C++algorithm\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(11): warning C4716: “main01”: 必须返回一个值
+  ConsoleApplication1.vcxproj -> E:\C++algorithm\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dfad4df-a93c-4258-9eae-abe88bcce517": {
+      "ProjectGuid": "0dfad4df-a93c-4258-9eae-abe88bcce517",
+      "DisplayName": "随机数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

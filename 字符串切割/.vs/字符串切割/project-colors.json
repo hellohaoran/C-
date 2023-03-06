@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0d5a961-be83-4c15-bae4-2917ed3fcc66": {
+      "ProjectGuid": "c0d5a961-be83-4c15-bae4-2917ed3fcc66",
+      "DisplayName": "字符串切割",
+      "ColorIndex": 0
+    },
+    "885dab2e-b8f0-49a3-b74e-a293822173cd": {
+      "ProjectGuid": "885dab2e-b8f0-49a3-b74e-a293822173cd",
+      "DisplayName": "字符串切割2",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
